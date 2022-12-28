@@ -1,6 +1,6 @@
 # PriorityQueue
 
-```csharp
+```cs
 // min head
 PriorityQueue<int, int> pq = new();
 // max heap
